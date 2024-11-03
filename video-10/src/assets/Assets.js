@@ -1,0 +1,49 @@
+import myphoto from './vegetable.jpg'
+export const assets = {
+    myphoto
+}
+export const products =[ 
+    {
+        id:"11",
+        name:"jyotish",
+        add:"biharsharif",
+        vill:"sarbahadi",
+        image:[myphoto]
+    },
+    {
+        id:"11",
+        name:"jyotish",
+        add:"biharsharif",
+        vill:"sarbahadi",
+        image:[myphoto]
+    },
+    {
+        id:"11",
+        name:"jyotish",
+        add:"biharsharif",
+        vill:"sarbahadi",
+        image:[myphoto]
+    },
+    {
+        id:"11",
+        name:"jyotish",
+        add:"biharsharif",
+        vill:"sarbahadi",
+        image:[myphoto]
+    },
+    {
+        id:"11",
+        name:"jyotish",
+        add:"biharsharif",
+        vill:"sarbahadi",
+        image:[myphoto]
+    },
+    {
+        id:"11",
+        name:"jyotish",
+        add:"biharsharif",
+        vill:"sarbahadi",
+        image:[myphoto]
+    },
+
+]
